@@ -18,3 +18,5 @@ jobs:
       - name: correr
         run: npm start
 
+      - name: Stop
+        run: npm stop
